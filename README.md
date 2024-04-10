@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chm-vinicius
 - 👀 I’m interested in IA, ML, CAE(Computer Aided Enginering), node, serveless, container, CI/CD
-- 🌱 I’m currently learning Firebase, nodeJs, express, swagger, python
+- 🌱 I’m currently learning ScykitLearn, TensorFlow, pytorch.
 - 💞️ I’m looking to collaborate on popularization of inacessibles features
 - 📫 How to reach me, at chm.eng.br
 
